@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Invalid Number", "05. I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Point on Rectangle Border", "06. Point on Rectangle Border\06. Point on Rectangle Border.csproj", "{F9BB2149-491D-47A7-AE28-D64F76F04F17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Fruit Shop", "07. Fruit Shop\07. Fruit Shop.csproj", "{1E07F65B-CAC1-4168-96F0-5E7703F0F394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Trade Comissions", "08. Trade Comissions\08. Trade Comissions.csproj", "{4F42EB32-1E5F-4D9D-B7A5-1206CBD8F257}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{F9BB2149-491D-47A7-AE28-D64F76F04F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9BB2149-491D-47A7-AE28-D64F76F04F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9BB2149-491D-47A7-AE28-D64F76F04F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E07F65B-CAC1-4168-96F0-5E7703F0F394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E07F65B-CAC1-4168-96F0-5E7703F0F394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E07F65B-CAC1-4168-96F0-5E7703F0F394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E07F65B-CAC1-4168-96F0-5E7703F0F394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F42EB32-1E5F-4D9D-B7A5-1206CBD8F257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F42EB32-1E5F-4D9D-B7A5-1206CBD8F257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F42EB32-1E5F-4D9D-B7A5-1206CBD8F257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F42EB32-1E5F-4D9D-B7A5-1206CBD8F257}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
